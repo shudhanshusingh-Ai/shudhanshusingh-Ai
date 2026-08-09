@@ -42,4 +42,4 @@ To build practical software solutions and grow as a professional software develo
 
 ## 📫 Connect
 
-GitHub: [My GitHub Profile](https://github.com/)
+GitHub: [My GitHub Profile](https://github.com/shudhanshusingh-Ai)
