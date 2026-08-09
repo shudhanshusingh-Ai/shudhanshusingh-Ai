@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Shudhanshu Singh 👋
 
-<!--
-**shudhanshusingh-Ai/shudhanshusingh-Ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### BCA Student | Software Development | Programming Projects
 
-Here are some ideas to get you started:
+I'm building practical software projects while improving my programming, problem-solving, and software development skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+- Python
+- JavaScript
+- C++
+- Flask
+- SQLite
+- HTML & CSS
+- Git & GitHub
+
+## 🚀 Featured Projects
+
+### 💰 Expense Tracker Pro
+Expense tracking application with data management and reporting features.
+
+### 📦 Inventory Management Pro
+Inventory management system with stock tracking, sales management, dashboard statistics and analytics.
+
+### ✅ TaskFlow Pro
+Task management system with priorities, status management, due dates, search, filtering and productivity tracking.
+
+### 🎓 Student Result Analytics
+Medium-level academic result management and analytics project with automatic grading, dashboard statistics, CSV export and C++ analytics.
+
+## 📚 Currently Learning
+
+- Data Structures & Algorithms
+- Backend Development
+- Database Management
+- Software Development
+- Problem Solving
+
+## 🎯 Goal
+
+To build practical software solutions and grow as a professional software developer.
+
+## 📫 Connect
+
+GitHub: [My GitHub Profile](https://github.com/)
